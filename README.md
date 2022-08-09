@@ -9,7 +9,7 @@ struct OMI {
 ```
 ## **My 42 Stats**
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/mcharouh" alt="mcharouh's 42 stats" /></a>
+[![mcharouh's 42 stats](https://badge42.vercel.app/api/v2/cl64fpog5000609l42m5va7xm/stats?cursusId=21&coalitionId=79)](https://github.com/JaeSeoKim/badge42)
 
 ##  **Connect?**
 
