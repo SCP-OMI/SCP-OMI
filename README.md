@@ -1,6 +1,6 @@
 ## **Who Am I?**
 
-```c
+```php
 struct OMI {
 	char	*Name = "Mehdi Charouh";
 	int	Age = 21;
