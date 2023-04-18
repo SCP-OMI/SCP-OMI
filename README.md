@@ -1,10 +1,17 @@
 ## **Who Am I?**
 
-```c
-struct OMI {
-	char	*Name = "Mehdi Charouh";
-	int	Age = 21;
-	char	*Quote = "Sell your house of cards while it still looks like a castle";
+```c++
+class OMI {
+	private :
+		std::string	Name = "Mehdi Charouh";
+		std::string	Quote = "Sell your house of cards while it still looks like a castle";
+		int		Age = 21;
+	public :
+		OMI();
+		~OMI();
+		std::string 	getStringCredentials(std::string credential);
+		int	    	getIntCredential();
+
 }
 ```
 ## **My 42 Stats**
