@@ -16,7 +16,7 @@ class OMI {
 }
 ```
 # 💫 About Me:
-🔭 I’m currently working on 42School project : Cub3d <br>🤝 I’m looking for help with<br>🌱 I’m currently learning C and C++<br>💬 Ask me about my book :)<br>⚡ Fun Fact : I killed a man in 08.
+🔭 I’m currently working on 42School project : Cub3d <br>🤝 I’m looking for help with cleaning out my closet<br>🌱 I’m currently learning C and C++<br>💬 Ask me about my book :)<br>⚡ Fun Fact : I killed a man in 08.
 
 ## **My 42 Stats**
 
