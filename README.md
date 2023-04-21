@@ -12,7 +12,6 @@ class OMI {
 		~OMI();
 		std::string 	getStringCredentials(std::string credential);
 		int	    	getIntCredential();
-
 }
 ```
 | My 42 Stats | 💫 About Me: | 
