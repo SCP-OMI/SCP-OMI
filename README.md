@@ -6,7 +6,7 @@ class OMI {
 		std::string	Name = "Mehdi Charouh";
 		std::string	SudoName = "OMI";
 		std::string	Quote = "Sell your house of cards while it still looks like a castle";
-		int		Age = 21;
+		int		Age = 22;
 	public :
 		OMI();
 		~OMI();
