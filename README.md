@@ -10,7 +10,7 @@ class OMI {
 	public :
 		OMI();
 		~OMI();
-		std::string 	getStringCredentials(std::string credential);
+		std::string 	getStringCredentials();
 		int	    	getIntCredential();
 }
 ```
