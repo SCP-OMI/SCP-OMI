@@ -16,7 +16,7 @@ class OMI {
 ```
 | My 42 Stats | 💫 About Me: | 
 | --- | --- |
-| [![mcharouh's 42 stats](https://badge42.vercel.app/api/v2/cl64fpog5000609l42m5va7xm/stats?cursusId=21&coalitionId=79)](https://profile.intra.42.fr/users/mcharouh) | 🔭 I’m currently working on 42School project : Transcendence <br>🤝 I’m looking for help with cleaning out my closet<br>🌱 I’m currently learning C and C++<br>💬 Ask me about my book :)<br>⚡ Fun Fact : I killed a man in 08. 
+| [![mcharouh's 42 stats](https://badge.mediaplus.ma/colorfulwaves/mcharouh)](https://profile.intra.42.fr/users/mcharouh) | 🔭 I’m currently working on 42School project : Transcendence <br>🤝 I’m looking for help with cleaning out my closet<br>🌱 I’m currently learning C and C++<br>💬 Ask me about my book :)<br>⚡ Fun Fact : I killed a man in 08. 
 
 
 
