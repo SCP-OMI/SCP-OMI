@@ -6,7 +6,7 @@ class OMI {
 		std::string	Name = "Mehdi Charouh";
 		std::string	SudoName = "OMI";
 		std::string	Quote = "Sell your house of cards while it still looks like a castle";
-		int		Age = 22;
+		int		Age = 23;
 	public :
 		OMI();
 		~OMI();
@@ -16,7 +16,7 @@ class OMI {
 ```
 | My 42 Stats | 💫 About Me: | 
 | --- | --- |
-| [![mcharouh's 42 stats](https://badge.mediaplus.ma/colorfulwaves/mcharouh)](https://profile.intra.42.fr/users/mcharouh) | 🔭 I’m currently working on : omiFAT <br>🤝 I’m looking for help with cleaning out my closet<br>🌱 I’m currently learning C and C++<br>💬 Ask me about my book :)<br>⚡ Fun Fact : I killed a man in 08. 
+| [![mcharouh's 42 stats](https://badge.mediaplus.ma/colorfulwaves/mcharouh)](https://profile.intra.42.fr/users/mcharouh) | 🔭 I’m currently working on : omiFAT <br>🤝 I’m looking for help with cleaning out my closet<br>🌱 I’m currently learning C and C++ and a bit of JS <br>💬 Ask me about my book :)<br>⚡ Fun Fact : I "allegedly" killed a man in 08. 
 
 
 
