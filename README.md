@@ -4,7 +4,7 @@
 class OMI {
 	private :
 		std::string	Name = "Mehdi Charouh";
-		std::string	SudoName = "OMI";
+		std::string	SU = "OMI";
 		std::string	Quote = "Sell your house of cards while it still looks like a castle";
 		int		Age = 23;
 	public :
