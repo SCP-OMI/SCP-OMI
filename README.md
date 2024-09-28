@@ -16,7 +16,7 @@ class OMI {
 ```
 | My 42 Stats | 💫 About Me: | 
 | --- | --- |
-| [![mcharouh's 42 stats](https://badge.mediaplus.ma/colorfulwaves/mcharouh)](https://profile.intra.42.fr/users/mcharouh) | 🔭 I’m currently working on : omiFAT <br>🤝 I’m looking for help with cleaning out my closet<br>🌱 I’m currently learning C and C++ and a bit of JS <br>💬 Ask me about my book :)<br>⚡ Fun Fact : Every year, surgical tools are left in approximately 1,500 patients in the USA. Fatter patients are more prone to having a surgical tool left inside of them due to the additional amount of space in their bodies
+| [![mcharouh's 42 stats](https://badge.mediaplus.ma/colorfulwaves/mcharouh)](https://profile.intra.42.fr/users/mcharouh) | 🔭 I’m currently working on : omiFAT <br>🤝 I’m looking for help with cleaning out my closet<br>🌱 I’m currently learning C and C++ and a bit of JS <br>💬 Ask me about my book :)<br>⚡ Fun Fact : Pigs have no sweat glands, which is why they stay in water or mud to keep cool
 
 
 
