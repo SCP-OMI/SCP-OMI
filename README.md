@@ -16,7 +16,7 @@ class OMI {
 ```
 | My 42 Stats | 💫 About Me: | 
 | --- | --- |
-| [![mcharouh's 42 stats](https://badge.mediaplus.ma/colorfulwaves/mcharouh)](https://profile.intra.42.fr/users/mcharouh) | 🔭 I’m currently working on : omiFAT <br>🤝 I’m looking for help with cleaning out my closet<br>🌱 I’m currently learning C and C++ and a bit of JS <br>💬 Ask me about my book :)<br>⚡ Fun Fact : The biggest bug in the world is the Goliath Beetle which can weigh up to 3.5 ounces and be 4.5 inches long
+| [![mcharouh's 42 stats](https://badge.mediaplus.ma/colorfulwaves/mcharouh)](https://profile.intra.42.fr/users/mcharouh) | 🔭 I’m currently working on : omiFAT <br>🤝 I’m looking for help with cleaning out my closet<br>🌱 I’m currently learning C and C++ and a bit of JS <br>💬 Ask me about my book :)<br>⚡ Fun Fact : Feb 1865 and Feb 1999 are the only months in recorded history not to have a full moon
 
 
 
